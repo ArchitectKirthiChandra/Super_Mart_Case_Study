@@ -9,5 +9,5 @@ reduce costs, and improve overall efficiency.
 
 **HIGH- LEVEL APPROACH**
 
-By conducting exploratory data analysis (EDA), variate analysis, and correlation analysis, we aim to address specific business 
+By conducting exploratory data analysis (EDA), variate analysis, and correlation analysis, the aim is to address specific business 
 questions and define clear objectives for the data analysis project.
